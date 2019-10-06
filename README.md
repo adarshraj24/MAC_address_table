@@ -1,2 +1,10 @@
 # MAC_address_table
-Script to Log into Cisco's Top-Of-Rack Nexus switch and capture MAC address-tables
+This script requires an input.csv file in following format:
+
+#Headder
+HOSTNAME1,IPADDRESS
+HOSTNAME1,IPADDRESS
+...
+
+I have added an output of this script as a sample of what the output looks like
+-Vivek
