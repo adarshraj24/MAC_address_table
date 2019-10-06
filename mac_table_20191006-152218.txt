@@ -1,0 +1,38 @@
+ --------------------------- ciscoTOR-01 ---------------------------
+
+
+*  500     0000.5e00.0201   dynamic  0         F      F    Eth1/51/1
+
+*  500     0032.1742.ac22   dynamic  0         F      F    Eth1/51/1
+
++  500     0032.173e.3c22   dynamic  0         F      F    vPC Peer-Link
+
++  500     30ae.f631.0a77   dynamic  0         F      F    vPC Peer-Link
+
+G    2     003a.9c2b.12c7   static   -         F      F    vPC Peer-Link(R)
+
+G    -     003a.9c2f.3e07   static   -         F      F    sup-eth1(R)
+
+G    2     003a.9c2f.3e07   static   -         F      F    sup-eth1(R)
+
+
+
+ --------------------------- ciscoTOR-02 ---------------------------
+
+
+*  500     0000.5e00.0201   dynamic  0         F      F    Eth1/51/1
+
+*  500     0032.1742.ac22   dynamic  0         F      F    Eth1/51/1
+
++  500     0032.173e.3c22   dynamic  0         F      F    vPC Peer-Link
+
++  500     30ae.f631.0a77   dynamic  0         F      F    vPC Peer-Link
+
+G    2     003a.9c2b.12c7   static   -         F      F    vPC Peer-Link(R)
+
+G    -     003a.9c2f.3e07   static   -         F      F    sup-eth1(R)
+
+G    2     003a.9c2f.3e07   static   -         F      F    sup-eth1(R)
+
+
+
