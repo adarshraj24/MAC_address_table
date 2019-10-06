@@ -1,4 +1,4 @@
-MAC Address-Table Script
+#MAC Address-Table Script
 
 This script requires an input.csv file.
 
