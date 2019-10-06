@@ -1,12 +1,9 @@
 # MAC_address_table
-This script requires an input.csv file in following format:
+This script requires an input.csv file.
 
-#Headder
-HOSTNAME1,IPADDRESS
-
-HOSTNAME1,IPADDRESS
-
-...
+Sample input.csv file has been provided
 
 I have added an output of this script as a sample of what the output looks like
+
+
 -Vivek
